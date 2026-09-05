@@ -5,7 +5,7 @@ import 'package:go_router/go_router.dart';
 import '../../../../core/constants/app_animations.dart';
 import '../../../../core/constants/app_spacing.dart';
 import '../../../../core/widgets/animated_background.dart';
-import '../../controller/onboarding_controller.dart';
+import '../../../onboarding/controllers/onboarding_controller.dart';
 import '../widgets/onboarding_footer.dart';
 import 'onboarding_page.dart';
 
